@@ -38,10 +38,11 @@ python photo_sketch.py
 
 ## 🖼️ Example
 **Input** :
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7c91c150-2c9f-4dee-808b-ba03c6e21f45" />
+<img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/7c91c150-2c9f-4dee-808b-ba03c6e21f45" />
 
 
-Output (Sketch):
+**Output (Sketch)**:
+![Output](https://github.com/user-attachments/assets/666ca8bf-5bc8-4adc-839e-3490e01b61f5)
 
 ## 📜 License
 This project is open-source and available under the MIT License.
