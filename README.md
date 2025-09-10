@@ -16,13 +16,9 @@ It applies grayscale conversion, inversion, Gaussian blur, and blending to produ
 photo-sketch-app/
 
 │── photo_sketch.py
-
 │── Image1.png 
-
 │── sketch_output.jpg 
-
 │── requirements.txt
-
 │── README.md
 
 ---
