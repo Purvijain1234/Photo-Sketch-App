@@ -29,46 +29,19 @@ photo-sketch-app/
 
 ## ⚙️ Installation
 Clone the repo and install dependencies:
-
-```bash
 git clone https://github.com/<your-username>/photo-sketch-app.git
 cd photo-sketch-app
 pip install -r requirements.txt
 ▶️ Usage
 Run the script with:
-
-bash
-Copy code
 python photo_sketch.py
-Make sure to update the image path in the code:
 
-python
-Copy code
-image = cv2.imread("Image1.png")
-🖼️ Example
+## 🖼️ Example
 Input:
 
 
 Output (Sketch):
 
-📜 License
+## 📜 License
 This project is open-source and available under the MIT License.
 
-yaml
-Copy code
-
----
-
-👉 Now you only need to:
-1. Save these files in your project folder.  
-2. Run the Git commands I gave earlier to push to GitHub.  
-
-Would you like me to also give you a **.gitignore file** (to ignore unnecessary stuff like `__pycache__` and `.venv`)?
-
-
-
-
-
-
-
-Ask ChatGPT
