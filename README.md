@@ -15,15 +15,15 @@ It applies grayscale conversion, inversion, Gaussian blur, and blending to produ
 ## 📂 Project Structure
 photo-sketch-app/
 
-│── photo_sketch.py # Main Python code
+│── photo_sketch.py
 
-│── Image1.png # Sample input image
+│── Image1.png 
 
-│── sketch_output.jpg # Example output
+│── sketch_output.jpg 
 
-│── requirements.txt # Dependencies
+│── requirements.txt
 
-│── README.md # Documentation
+│── README.md
 
 ---
 
@@ -37,7 +37,8 @@ Run the script with:
 python photo_sketch.py
 
 ## 🖼️ Example
-Input:
+**Input** :
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7c91c150-2c9f-4dee-808b-ba03c6e21f45" />
 
 
 Output (Sketch):
