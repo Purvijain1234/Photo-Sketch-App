@@ -1,15 +1,21 @@
-# 🖼️ Sketchify-App ✏️
+# 🎨 Sketchify-App 
 
-Sketchify-App converts any photo into a **pencil sketch** using Python and OpenCV.  
-It applies grayscale conversion, inversion, Gaussian blur, and blending to produce a realistic sketch effect.
+Sketchify is a simple Streamlit + OpenCV app that transforms your images into creative styles like pencil sketch, cartoon, grayscale, blur, and edge detection.
 
 ---
 
 ## 🚀 Features
 
-- Convert any photo into a pencil sketch
+- Upload any .jpg, .jpeg, or .png image
+- Apply effects instantly:
+-- Original
+-- Pencil Sketch
+-- Cartoon
+-- Grayscale
+-- Blur
+- Side-by-side comparison (Original vs. Processed)
+- Download the processed image
 - Simple and lightweight (uses only OpenCV)
-- Works with all image formats supported by OpenCV
 - Fast processing
 
 ---
@@ -47,29 +53,12 @@ Run the script with:
 python photo_sketch.py
 ```
 
-- By default, the script processes `Image1.png` and outputs `sketch_output.jpg`.
-- To use your own image, replace `Image1.png` with your file or edit the script to change the input path.
-
----
-
-## 🛠️ How it Works
-
-1. **Grayscale Conversion:** Converts the input image to grayscale.
-2. **Inversion:** Inverts the grayscale image.
-3. **Blurring:** Applies a Gaussian blur to the inverted image.
-4. **Blending:** Blends the grayscale image with the blurred version to create a pencil-sketch effect.
-
-All of this is handled in `photo_sketch.py`.
+- By default, the script processes `Image.png` and outputs image.
+- To use your own image, replace `Image.png` with your file or edit the script to change the input path.
 
 ---
 
 ## 🖼️ Example
-
-**Input:**
-
-![Input](Image1.png)
-
-**Output (Sketch):**
 
 ![Output](sketch_output.jpg)
 
