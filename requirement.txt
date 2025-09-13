@@ -1,2 +1,7 @@
 opencv-python
+
 numpy
+
+Streamlit
+
+Pillow
