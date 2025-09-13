@@ -61,7 +61,7 @@ python photo_sketch.py
 
 ## 🖼️ Example
 
-![Output](sketch_output.jpg)
+<img width="1775" height="845" alt="Image" src="https://github.com/user-attachments/assets/6114b504-e1dd-494c-976a-7df2713b0f71" />
 
 ---
 
