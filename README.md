@@ -8,11 +8,12 @@ Sketchify is a simple Streamlit + OpenCV app that transforms your images into cr
 
 - Upload any .jpg, .jpeg, or .png image
 - Apply effects instantly:
--- Original
--- Pencil Sketch
--- Cartoon
--- Grayscale
--- Blur
+  -- Original
+  -- Pencil Sketch
+  -- Cartoon
+  -- Grayscale
+  -- Edge Detection
+  -- Blur
 - Side-by-side comparison (Original vs. Processed)
 - Download the processed image
 - Simple and lightweight (uses only OpenCV)
